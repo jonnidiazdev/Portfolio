@@ -19,37 +19,30 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Go. </b>
-              </i>
+              I'm a <b className="purple">seasoned software developer</b> with over a decade of experience 
+              specializing in <b className="purple">backend development. 👨🏽‍💻</b>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              My journey in the tech world has been largely shaped by my extensive work with 
+              financial institutions, particularly in <b className="purple">the banking sector.</b>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              While backend development is my main focus, 
+              I'm also <b className="purple">well-versed in frontend technologies</b>, 
+              making me a <b className="purple">versatile developer</b> who can adapt to various challenges.
+              <br />
+              <br />
+              My approach to software development is rooted in{" "} 
+              <b className="purple">problem-solving</b> and <b className="purple">attention to detail</b>. 
+              I pride myself on being a quick learner <b className="purple">—a jack of all trades—</b> 
+              capable of diving into new technologies and methodologies with ease. 
+              Whether it's designing seamless integrations or troubleshooting intricate systems, 
+              I'm always <b className="purple">up for the challenge.</b>
+
+              <br />
+              <br />
+              <i>Feel free to explore my portfolio and get in touch if you'd like to collaborate 
+              or learn more about my work!</i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,7 +60,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/jonnidiazdev"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,32 +70,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/jonnidiazdev/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
                 </a>
               </li>
             </ul>
